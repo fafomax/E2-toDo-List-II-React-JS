@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <h1>Home</h1>
-      <div className="contenedor">
+      {/* <div className="contenedor">
         <ReactPlayer
           url="https://youtu.be/vO4VjRahgm4"
           width="60%"
@@ -15,7 +15,7 @@ export default function Home() {
           volume="0.15"
           className="react-player"
         />
-      </div>
+      </div> */}
     </>
   );
 }
