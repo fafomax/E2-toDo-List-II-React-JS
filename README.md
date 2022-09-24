@@ -1,6 +1,6 @@
 # E2: toDo List II | React JS
 
-En este desafío vamos a iterar el proyecto del ToDo list que habíamos realizado.
+En este desafío vamos a iterar el proyecto del <a href="https://github.com/fafomax/E1-toDo-List-React-JS" target="_blank" rel="noreferrer">ToDo list que habíamos realizado </a>.
 
 👉 Deberemos agregarle un NavBar para poder ir de la página con el ToDo a dos nuevas rutas.
 
