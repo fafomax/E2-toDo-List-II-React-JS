@@ -1,7 +1,7 @@
 .contenedor-boton-borrar {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .boton-borrar {
@@ -14,5 +14,4 @@
   background-color: #b92601;
   color: #fff;
   text-transform: capitalize;
- 
 }
